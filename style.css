@@ -1,0 +1,37 @@
+.Top-name {
+    margin-top: 100px;
+    margin-left: 1800px;
+}
+
+.someting {
+    margin: 25px;
+    margin-left: 1825px;
+}
+
+.img {
+    margin: 50px;
+    margin-left: 1725px;
+}
+
+* {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('2.jpg');
+}
+
+.under {
+    margin-top: 100px;
+    margin-left: 1450px;
+}
+
+.under2 {
+    margin-top: 25px;
+    margin-left: 1800px;
+}
+
+.info {
+    padding-left: 1400px;
+    
+}
